@@ -4,4 +4,4 @@ Essa agenda permite o cadastro de contatos, sua listagem e a criação de listas
 
 A classe inicial é `agenda.InterfaceAgenda`.
 
-Material instrucional da disciplina Laboratório de Programação 2 da [Computação@UFCG](http://computacao.ufcg.edu.br/).
+Infelizmente, os dados não ficam salvos, e o fim de uso desta agenda é limitado para estudos pessoais.
